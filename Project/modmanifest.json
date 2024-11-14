@@ -1,0 +1,7 @@
+{
+  "UniqueModName": "Crynano_QM_PatchPrototype",
+  "Assemblies": [
+    "QM_PatchPrototype.dll"
+  ],
+  "Dependencies": []
+}
